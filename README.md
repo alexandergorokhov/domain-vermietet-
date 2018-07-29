@@ -24,7 +24,7 @@ mvn spring-boot:run
 
 ### Class diagramm
 
-[Class diagram] (https://docs.google.com/document/d/1P92qHh5cLPc3iKdIEWDquLtMhigRR_8nafIHEMBVcxc/edit?usp=sharing)
+[Class diagram] (https://docs.google.com/document/d/1P92qHh5cLPc3iKdIEWDquLtMhigRR_8nafIHEMBVcxc/edit?usp=sharing)<br/>
 [Endpoint documentation] located in Api.md
 
 ### Testing
