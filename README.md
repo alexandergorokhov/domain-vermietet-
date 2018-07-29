@@ -38,5 +38,7 @@ TDD has been used during development
 
 * **Alexander Gorokhov**
 
+## Asumptions
+Device Id is unique.
 
 
